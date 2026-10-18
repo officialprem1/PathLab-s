@@ -1,0 +1,6 @@
+{
+  "name": "Path LIS - Laboratory Information System",
+  "description": "Production-grade Laboratory Information System (LIS) for diagnostic pathology labs with bilingual English/Hindi, multi-role auth, clinical workflows, PDF reports, and billing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
